@@ -1,0 +1,30 @@
+"Que es GIT?"
+Git es un sistema con consola y de codigo abierto
+para el desarrollo de software.
+
+"Cuales son los comandos mas importantes y para que sirven?"
+git add: para agregar archivos
+git status: para ver el estado de los archivos
+git commit: para realizar cambios en la consola de archivos viejos
+git log: para entrar o iniciar sesion en la consola
+
+"Cual es la diferencia entre Git y Github?"
+La diferencia es que Git es un sistema para saber el como 
+se encuentra el codigo, mientras GitHub es una plataforma
+ utiliza para subir los codigos en si.
+ 
+ "Enumere los comandos para subir cambios a un repositorio"
+ git status
+ git add .
+ git commit -m
+
+"Que es un branch?"
+linea independiente dentro de un repositorio
+
+Resumen del video:
+Lo que pude ver en el video primero explica en que se basa git,
+git es un sistema diseñado para modificar codigo, hay varios comandos
+los cuales son de uso importante, como add, status, commit, entre varios
+que nos ayudan a entrelazar git con nuestro trabajo, para asi poder subir
+los archivos sin necesidad de estar iniciando sesion.
+
